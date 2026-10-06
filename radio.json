@@ -2,11 +2,11 @@
   "artist": "BENDER",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "",
+    "title": "Nothing Left In These Lungs",
     "artist": "BENDER",
-    "album": "",
-    "cover": "",
-    "audioSrc": "",
+    "album": "Singles",
+    "cover": "images/covers/burning-snow_-nothing-left.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/x98siif56pgzw4e18kvf3/bender-nothing-left-in-these-lungs-MP3-mastered.mp3?rlkey=lqb3akm9c1eun5rqezr8p9zht&raw=1",
     "videos": []
   },
   "tracks": []
