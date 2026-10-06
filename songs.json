@@ -4,7 +4,7 @@
     "num": "01",
     "title": "Nothing Left In These Lungs",
     "artist": "BENDER",
-    "album": "",
+    "album": "Singles",
     "trackNumber": 99,
     "albumOrder": 99,
     "albumCover": "",
@@ -18,6 +18,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
