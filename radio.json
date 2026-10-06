@@ -1,0 +1,13 @@
+{
+  "artist": "BENDER",
+  "latestUrl": "latest.json",
+  "featuredTrack": {
+    "title": "",
+    "artist": "BENDER",
+    "album": "",
+    "cover": "",
+    "audioSrc": "",
+    "videos": []
+  },
+  "tracks": []
+}
